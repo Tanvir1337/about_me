@@ -1,4 +1,4 @@
-# Hi, I'm Tanvir Hasan 👋
+# Hi, I'm Md Tanvir Hasan 👋
 
 ### M.Sc. Sustainable Electronics and Photonics | TU Dresden, Germany
 
@@ -9,9 +9,9 @@ My goal is to combine my engineering background, research experience, and comput
 ## 🔬 Research & Experience
 
 - **Metamaterial Absorbers:** Research on broadband, polarization-insensitive metamaterial absorbers for solar harvesting and solar sailing.
-- **Research Publication:** *Ultra-Broadband, Polarization-insensitive, High-Efficiency Metamaterial Absorber for Solar Harvesting and Solar Sailing with Thermal Analysis*, published in *Energy Reports*.
-- **Bachelor's Project:** [Add your project title and a short description.]
-- **Current Studies:** Sustainable Electronics and Photonics at TU Dresden, Germany.
+- **Research Publication:** [Ultra-Broadband, Polarization-insensitive, High-Efficiency Metamaterial Absorber for Solar Harvesting and Solar Sailing with Thermal Analysis](https://www.sciencedirect.com/science/article/pii/S2352484726000818) — published in *Energy Reports*.
+- **Bachelor's Project:** Power Quality Improvement using Fuzzy-PI Controlled D-STATCOM.
+
 
 ## ⚡ Technical Interests
 
@@ -27,9 +27,8 @@ My goal is to combine my engineering background, research experience, and comput
 
 **Programming:** C/C++ fundamentals; Python — currently developing practical skills
 
-**Tools:** MATLAB and other research tools — [list only those you have actually used]
+**Tools:** MATLAB, COMSOL Multiphysics, CST Microwave Studio
 
-**Currently Learning:** Python, Jupyter Notebook, NumPy, pandas, data visualization, and statistics for engineering applications.
 
 ## 🚀 Projects
 
