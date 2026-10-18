@@ -1,8 +1,27 @@
-<h1>Hello! This is Md. Tanvir Hasan </h1>
+<h1>Hi! I'm Md Tanvir Hasan 👋 </h1>
 
 <h2>About Me: </h2>
-I am a highly motivated and enthusiastic cybersecurity analyst and a good learner also.
-I intend to protect my organization and it's people by identifying, analyzing and mitigating potential security threats, risks and vulnerabilities with ensuring confidentiality, integrity and availability. Providing security and safety to the asset is the source of my interest in cybersecurity career which drives me to proactively protect the organization and it's people to meet security goals.
+🎓 M.Sc. Sustainable Electronics and Photonics student at TU Dresden, Germany.
+
+⚡ I hold a bachelor's degree in Electrical and Electronic Engineering and have a research background in photonics and metamaterial absorbers.
+
+🔬 Current interests:
+
+Semiconductor devices and nanoelectronics
+
+Electronics and photonics
+
+Semiconductor process and device characterization
+
+Python-based data analysis and scientific computing
+
+💻 Currently learning: Python, NumPy, pandas, data visualization, and statistical analysis for semiconductor applications.
+
+🚀 I'm building hands-on projects to strengthen my understanding of semiconductor technology, scientific computing, and data-driven engineering.
+
+📌 This profile documents my research, academic projects, technical learning, and progress toward a career in the semiconductor industry.
+
+📫 Feel free to connect and collaborate!
 
 <h2> Skills: </h2>
 - <b> Network analyzer (sniffing) tools </b> <br/>
