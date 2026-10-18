@@ -45,7 +45,7 @@ To develop strong practical skills in semiconductor technology, Python-based dat
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn URL]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tanvir-hasan-sajib/?isSelfProfile=true)
 - **Research Paper:** [Publication DOI or publisher URL]
 - **Portfolio:** [Your website URL, when available]
 
