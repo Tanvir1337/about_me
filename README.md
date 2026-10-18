@@ -1,72 +1,53 @@
-<h1>Hi! I'm Md Tanvir Hasan 👋 </h1>
+# Hi, I'm Tanvir Hasan 👋
 
-<h2>About Me: </h2>
-🎓 M.Sc. Sustainable Electronics and Photonics student at TU Dresden, Germany (present)
+### M.Sc. Sustainable Electronics and Photonics | TU Dresden, Germany
 
+I'm an Electrical and Electronic Engineering graduate with a research background in photonics and metamaterial absorbers. I'm currently pursuing my master's degree at TU Dresden, where I'm developing my knowledge of electronics, photonics, and semiconductor technology.
 
-⚡ I hold a bachelor's degree in Electrical and Electronic Engineering and have a research background in photonics and metamaterial absorbers.
+My goal is to combine my engineering background, research experience, and computational skills to solve practical problems in the semiconductor industry.
 
-<b> 🔬 Current interests: <b/>
+## 🔬 Research & Experience
+
+- **Metamaterial Absorbers:** Research on broadband, polarization-insensitive metamaterial absorbers for solar harvesting and solar sailing.
+- **Research Publication:** *Ultra-Broadband, Polarization-insensitive, High-Efficiency Metamaterial Absorber for Solar Harvesting and Solar Sailing with Thermal Analysis*, published in *Energy Reports*.
+- **Bachelor's Project:** [Add your project title and a short description.]
+- **Current Studies:** Sustainable Electronics and Photonics at TU Dresden, Germany.
+
+## ⚡ Technical Interests
 
 - Semiconductor devices and nanoelectronics
-
 - Electronics and photonics
+- Semiconductor device characterization
+- Scientific computing and engineering data analysis
+- Materials and device physics
 
-- Semiconductor process and device characterization
+## 💻 Technical Skills
 
-- Python-based data analysis and scientific computing
+**Engineering:** Electrical and electronic engineering fundamentals, photonics research
 
-💻 Currently learning: Python, NumPy, pandas, data visualization, and statistical analysis for semiconductor applications.
+**Programming:** C/C++ fundamentals; Python — currently developing practical skills
 
-🚀 I'm building hands-on projects to strengthen my understanding of semiconductor technology, scientific computing, and data-driven engineering.
+**Tools:** MATLAB and other research tools — [list only those you have actually used]
 
-📌 This profile documents my research, academic projects, technical learning, and progress toward a career in the semiconductor industry.
+**Currently Learning:** Python, Jupyter Notebook, NumPy, pandas, data visualization, and statistics for engineering applications.
 
-📫 Feel free to connect and collaborate!
+## 🚀 Projects
 
-<h2> Skills: </h2>
-- <b> Network analyzer (sniffing) tools </b> <br/>
-- <b> Linux command line </b> <br/>
-- <b> SQL </b> <br/>
-- <b> Security Information and Event Management(SIEM) tools </b> <br/>
-- <b> Python </b> <br/>
+| Project | Description |
+|---|---|
+| Metamaterial Absorber Research | Research project involving optical absorption and thermal analysis. |
+| Bachelor's Project | [Add your project description and repository link.] |
+| Python for Engineering | [Add notebooks as you complete them.] |
+| Semiconductor Data Analysis | [Add future projects using real or appropriately sourced datasets.] |
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 🎯 Current Goal
 
-- <b> [Building a port scanner](https://github.com/) <b/>
-- <b> Building a Home Lab </b>
+To develop strong practical skills in semiconductor technology, Python-based data analysis, and engineering problem-solving through coursework, independent projects, and research.
 
-- <b> [Malware Analysis Lab](https://github.com/joshmadakor1/Algorithms-Practice) <b/>
-- <b> Creating a Honeypot <b/>
+## 🔗 Connect With Me
 
-<h2> Certifications </h2>
-- <b> Google Cybersecurity Professional Certificate </b> <br/>
-- <b> CompTIA Network+ <b/>
+- **LinkedIn:** [Your LinkedIn URL]
+- **Research Paper:** [Publication DOI or publisher URL]
+- **Portfolio:** [Your website URL, when available]
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always interested in learning from the semiconductor and photonics community and connecting with people working on related technologies.
