@@ -6,7 +6,7 @@
 
 ⚡ I hold a bachelor's degree in Electrical and Electronic Engineering and have a research background in photonics and metamaterial absorbers.
 
-🔬 Current interests:
+<b> 🔬 Current interests: <b/>
 
 - Semiconductor devices and nanoelectronics
 
