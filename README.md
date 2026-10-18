@@ -1,7 +1,8 @@
 <h1>Hi! I'm Md Tanvir Hasan 👋 </h1>
 
 <h2>About Me: </h2>
-🎓 M.Sc. Sustainable Electronics and Photonics student at TU Dresden, Germany.
+🎓 M.Sc. Sustainable Electronics and Photonics student at TU Dresden, Germany (present)
+
 
 ⚡ I hold a bachelor's degree in Electrical and Electronic Engineering and have a research background in photonics and metamaterial absorbers.
 
