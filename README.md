@@ -8,13 +8,13 @@
 
 🔬 Current interests:
 
-Semiconductor devices and nanoelectronics
+- Semiconductor devices and nanoelectronics
 
-Electronics and photonics
+- Electronics and photonics
 
-Semiconductor process and device characterization
+- Semiconductor process and device characterization
 
-Python-based data analysis and scientific computing
+- Python-based data analysis and scientific computing
 
 💻 Currently learning: Python, NumPy, pandas, data visualization, and statistical analysis for semiconductor applications.
 
